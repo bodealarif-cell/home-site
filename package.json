@@ -1,5 +1,7 @@
 {
   "name": "home-site",
+  "homepage": "https://bodealarif-cell.github.io/home-site"
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
