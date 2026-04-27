@@ -1,6 +1,11 @@
 {
   "name": "home-site",
-  "homepage": "https://bodealarif-cell.github.io/home-site"
+  "scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+},
+"homepage": "https://bodealarif-cell.github.io/home-site"
+
 
   "version": "0.1.0",
   "private": true,
