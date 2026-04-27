@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/home-site/static/css/main.c301caa8.css",
+    "main.js": "/home-site/static/js/main.fdacf466.js",
+    "index.html": "/home-site/index.html",
+    "main.c301caa8.css.map": "/home-site/static/css/main.c301caa8.css.map",
+    "main.fdacf466.js.map": "/home-site/static/js/main.fdacf466.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c301caa8.css",
+    "static/js/main.fdacf466.js"
+  ]
+}
